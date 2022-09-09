@@ -1,6 +1,6 @@
-
+<style>
 body {
-  background-color: lightblue;
+  background-color: navy
 }
 
 h1 {
@@ -12,8 +12,12 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+</style>
+</head>
+<body>
 
+<h1>Homepage</h1>
+<p>options.</p>
 
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
-
+</body>
+</html>
