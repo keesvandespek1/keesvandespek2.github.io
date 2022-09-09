@@ -1,25 +1,19 @@
-<head>
 <style>
 body {
-  background-color: lightgrey;
+  background-color: lightblue;
 }
 
 h1 {
-  color: black;
+  color: white;
   text-align: center;
 }
 
 p {
-  font-family: blue;
+  font-family: verdana;
   font-size: 20px;
 }
 </style>
-</head>
-<body>
 
-<h1>Homepage</h1>
-<p>options</p>
-
-</body>
-</html>
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
 
