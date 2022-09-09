@@ -1,9 +1,7 @@
 ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: rgb(221, 31, 110);
+  font-family: verdana;
+  font-size: 20px;
+  background-color: black;
 
 }
 
@@ -12,14 +10,9 @@ li {
 }
 
 li a {
-  display: block;
-  color: rgb(44, 139, 57);
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+  font-family: verdana;
+  font-size: 20px;
 }
 
-li a:hover {
-  background-color: rgb(16, 59, 94);
-}
+ul
 
