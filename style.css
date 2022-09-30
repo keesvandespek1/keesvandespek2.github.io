@@ -9,7 +9,7 @@ p {
 li {
   display: block;
   color: aqua;
-  text-align: center;
+  text-align: left;
   padding: 10px;
   text-decoration: none;
 }
