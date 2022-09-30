@@ -17,7 +17,7 @@ li {
 
 h3 {
     color: rgb(43, 20, 128);
-    text-align: center;
+    text-align: left;
 }
 body {
   background-color: grey;
@@ -35,3 +35,6 @@ li a:hover {
   background-color: aqua;
 }
 
+h1 { 
+  text-align: left;
+}
