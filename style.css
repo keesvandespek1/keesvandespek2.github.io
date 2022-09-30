@@ -28,6 +28,7 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: greenyellow;
+  text-decoration: none;
 }
 
 li a:hover {
