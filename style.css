@@ -28,11 +28,10 @@ ul {
   margin: 0%;
   padding: 0;
   overflow: hidden;
-  background-color: greenyellow;
   text-decoration: none;
 }
 
 li a:hover {
-  background-color: bisque;
+  background-color: aqua;
 }
 
