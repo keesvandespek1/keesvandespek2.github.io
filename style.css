@@ -1,7 +1,7 @@
 
 
 body {margin:0;}
-de kleur en rand van menu
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -12,12 +12,11 @@ ul {
   top: 0;
   width: 100%;
 } 
-kant waar het menu zich bevind
 
 li {
   float: left;
 }
-kleur etc van menu
+
 li a {
   display: block;
   color: white;
