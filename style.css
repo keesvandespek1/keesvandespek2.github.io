@@ -1,7 +1,7 @@
 
 
 body {margin:0;}
-
+/*menu kleur etc*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -12,7 +12,7 @@ ul {
   top: 0;
   width: 100%;
 } 
-
+/**/
 li {
   float: left;
 }
