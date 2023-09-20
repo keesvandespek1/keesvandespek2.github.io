@@ -35,6 +35,7 @@
 
 body {
   background-image: url("background.png");
+  background-size: 2500px;
 }
 
 h1 {
