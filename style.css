@@ -1,5 +1,5 @@
 .dropbtn {
-  background-color: #0ea6c1;
+  background-color: #0e5cc1;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -14,7 +14,7 @@
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color: #1bbacf;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -27,11 +27,11 @@
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #ddd;}
+.dropdown-content a:hover {background-color: #16dabf;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #1ad8d8;}
+.dropdown:hover .dropbtn {background-color: #03b69e;}
 
 body {
   background-image: url("background.png");
